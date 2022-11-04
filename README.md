@@ -1,14 +1,21 @@
+<!-- 
+Hey what are you doing here? 
+I admire your curiosity tho
+Shoot me an email (zinean00 at gmail dot com)
+Let's connect! 
+-->
+
 <p float="left">
   <img src='https://imgur.com/nGM66Ev.png' width='300' align="left">
   <p>
     
   <h3>About Me</h3>
   🏫 cs + maths '25 @ vanderbilt university <br>
-  🌊 ex-dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
+  🌊 ex dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
   📚 engineering manager @ <a href="https://github.com/changeplusplusvandy">ChangePlusPlus<a> <br>
   🐿 pulling weekend all nighters @ <a href="https://github.com/squ1rrel-ctf">squ1rrel-ctf</a> <br>
   
-  <h3>Shameless Plugs</h3>
+  <h3>Random</h3>
   ✍️ i occasionally do some ctf <a href="https://squ1rrel.dev/author/zineanteoh">writeups</a> <br>
   📱 one of my <a href="https://github.com/zineanteoh/vinkybox-app">favorite</a> personal project<br>
   📖 i dont remember all the books i read so i keep them at a <a href="https://www.goodreads.com/user/show/80901669-zi">safe place</a>
