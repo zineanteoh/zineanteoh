@@ -11,7 +11,7 @@ Let's connect!
     
   <h3>About Me</h3>
   🏫 cs + maths '25 @ vanderbilt university <br>
-  🌊 ex dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
+  🌊 former dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
   📚 engineering manager @ <a href="https://github.com/changeplusplusvandy">ChangePlusPlus<a> <br>
   🐿 pulling weekend all nighters @ <a href="https://github.com/squ1rrel-ctf">squ1rrel-ctf</a> <br>
   
