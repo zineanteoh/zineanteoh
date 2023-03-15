@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/nightlight-app/nightlight-frontend/pull/20) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-2. 💪 Opened PR [#19](https://github.com/nightlight-app/nightlight-frontend/pull/19) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-3. 🎉 Merged PR [#18](https://github.com/nightlight-app/nightlight-frontend/pull/18) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-4. 🗣 Commented on [#18](https://github.com/nightlight-app/nightlight-frontend/issues/18) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-5. 💪 Opened PR [#13](https://github.com/nightlight-app/nightlight-backend/pull/13) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. 💪 Opened PR [#23](https://github.com/nightlight-app/nightlight-frontend/pull/23) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 💪 Opened PR [#20](https://github.com/nightlight-app/nightlight-frontend/pull/20) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+3. 💪 Opened PR [#19](https://github.com/nightlight-app/nightlight-frontend/pull/19) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🎉 Merged PR [#18](https://github.com/nightlight-app/nightlight-frontend/pull/18) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+5. 🗣 Commented on [#18](https://github.com/nightlight-app/nightlight-frontend/issues/18) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
 <!--END_SECTION:activity-->
