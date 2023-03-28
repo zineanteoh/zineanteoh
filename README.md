@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/nightlight-app/nightlight-backend/pull/16) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-2. 🎉 Merged PR [#25](https://github.com/nightlight-app/nightlight-frontend/pull/25) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-3. 🎉 Merged PR [#14](https://github.com/nightlight-app/nightlight-backend/pull/14) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-4. 💪 Opened PR [#50](https://github.com/ChangePlusPlusVandy/bookem-user/pull/50) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-5. 🎉 Merged PR [#46](https://github.com/ChangePlusPlusVandy/bookem-user/pull/46) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+1. 🎉 Merged PR [#27](https://github.com/nightlight-app/nightlight-frontend/pull/27) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 🎉 Merged PR [#16](https://github.com/nightlight-app/nightlight-backend/pull/16) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+3. 🎉 Merged PR [#25](https://github.com/nightlight-app/nightlight-frontend/pull/25) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🎉 Merged PR [#14](https://github.com/nightlight-app/nightlight-backend/pull/14) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+5. 💪 Opened PR [#50](https://github.com/ChangePlusPlusVandy/bookem-user/pull/50) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
 <!--END_SECTION:activity-->
