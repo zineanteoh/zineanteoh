@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/7) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
-2. 🗣 Commented on [#355](https://github.com/VandyHacks/witness/issues/355) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 🎉 Merged PR [#51](https://github.com/ChangePlusPlusVandy/bookem-user/pull/51) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-4. ❌ Closed PR [#18](https://github.com/nightlight-app/nightlight-backend/pull/18) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-5. 💪 Opened PR [#19](https://github.com/nightlight-app/nightlight-backend/pull/19) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. 💪 Opened PR [#53](https://github.com/ChangePlusPlusVandy/bookem-user/pull/53) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+2. 💪 Opened PR [#7](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/7) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
+3. 🗣 Commented on [#355](https://github.com/VandyHacks/witness/issues/355) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🎉 Merged PR [#51](https://github.com/ChangePlusPlusVandy/bookem-user/pull/51) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+5. ❌ Closed PR [#18](https://github.com/nightlight-app/nightlight-backend/pull/18) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
