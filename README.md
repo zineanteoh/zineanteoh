@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/ChangePlusPlusVandy/bookem-user/pull/52) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-2. 🎉 Merged PR [#9](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/9) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
-3. 💪 Opened PR [#9](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/9) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
-4. 🎉 Merged PR [#53](https://github.com/ChangePlusPlusVandy/bookem-user/pull/53) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-5. 🎉 Merged PR [#7](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/7) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
+1. 🎉 Merged PR [#6](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/6) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
+2. 🎉 Merged PR [#52](https://github.com/ChangePlusPlusVandy/bookem-user/pull/52) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+3. 🎉 Merged PR [#9](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/9) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
+4. 💪 Opened PR [#9](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/9) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
+5. 🎉 Merged PR [#53](https://github.com/ChangePlusPlusVandy/bookem-user/pull/53) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
 <!--END_SECTION:activity-->
