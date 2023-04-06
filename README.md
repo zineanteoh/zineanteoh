@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/8) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
-2. 💪 Opened PR [#23](https://github.com/nightlight-app/nightlight-backend/pull/23) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-3. 🎉 Merged PR [#6](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/6) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
-4. 🎉 Merged PR [#52](https://github.com/ChangePlusPlusVandy/bookem-user/pull/52) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-5. 🎉 Merged PR [#9](https://github.com/ChangePlusPlusVandy/bookem-admin/pull/9) in [ChangePlusPlusVandy/bookem-admin](https://github.com/ChangePlusPlusVandy/bookem-admin)
+1. ❌ Closed PR [#328](https://github.com/VandyHacks/witness/pull/328) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. ❌ Closed PR [#321](https://github.com/VandyHacks/witness/pull/321) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+3. 🎉 Merged PR [#24](https://github.com/VandyHacks/cross-year/pull/24) in [VandyHacks/cross-year](https://github.com/VandyHacks/cross-year)
+4. 🎉 Merged PR [#8](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/8) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
+5. 💪 Opened PR [#23](https://github.com/nightlight-app/nightlight-backend/pull/23) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
