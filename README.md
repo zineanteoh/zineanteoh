@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/nightlight-app/nightlight-backend/issues/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-2. 🎉 Merged PR [#355](https://github.com/VandyHacks/witness/pull/355) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 💪 Opened PR [#25](https://github.com/nightlight-app/nightlight-backend/pull/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-4. ❌ Closed PR [#328](https://github.com/VandyHacks/witness/pull/328) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. ❌ Closed PR [#321](https://github.com/VandyHacks/witness/pull/321) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🎉 Merged PR [#33](https://github.com/nightlight-app/nightlight-frontend/pull/33) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+2. 🗣 Commented on [#25](https://github.com/nightlight-app/nightlight-backend/issues/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+3. 🎉 Merged PR [#355](https://github.com/VandyHacks/witness/pull/355) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 💪 Opened PR [#25](https://github.com/nightlight-app/nightlight-backend/pull/25) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+5. ❌ Closed PR [#328](https://github.com/VandyHacks/witness/pull/328) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
