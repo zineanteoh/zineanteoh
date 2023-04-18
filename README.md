@@ -29,9 +29,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#43](https://github.com/nightlight-app/nightlight-frontend/pull/43) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
-2. 🗣 Commented on [#34](https://github.com/nightlight-app/nightlight-backend/issues/34) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-3. 🗣 Commented on [#35](https://github.com/nightlight-app/nightlight-backend/issues/35) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-4. 💪 Opened PR [#35](https://github.com/nightlight-app/nightlight-backend/pull/35) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
-5. 🗣 Commented on [#45](https://github.com/nightlight-app/nightlight-frontend/issues/45) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+1. 🗣 Commented on [#35](https://github.com/nightlight-app/nightlight-backend/issues/35) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+2. 🗣 Commented on [#35](https://github.com/nightlight-app/nightlight-backend/issues/35) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+3. ❌ Closed PR [#43](https://github.com/nightlight-app/nightlight-frontend/pull/43) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
+4. 🗣 Commented on [#34](https://github.com/nightlight-app/nightlight-backend/issues/34) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+5. 🗣 Commented on [#35](https://github.com/nightlight-app/nightlight-backend/issues/35) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
