@@ -35,3 +35,5 @@ Let's connect!
 4. 🗣 Commented on [#49](https://github.com/nightlight-app/nightlight-frontend/issues/49) in [nightlight-app/nightlight-frontend](https://github.com/nightlight-app/nightlight-frontend)
 5. ❌ Closed PR [#39](https://github.com/nightlight-app/nightlight-backend/pull/39) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
+
+![](./profile-3d-contrib/profile-green-animate.svg)
