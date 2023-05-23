@@ -36,4 +36,4 @@ Let's connect!
 5. ❌ Closed PR [#39](https://github.com/nightlight-app/nightlight-backend/pull/39) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
 <!--END_SECTION:activity-->
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
