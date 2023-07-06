@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-2. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-3. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
-4. 🗣 Commented on [#749](https://github.com/firebase/firebase-tools/issues/749) in [firebase/firebase-tools](https://github.com/firebase/firebase-tools)
-5. 🎉 Merged PR [#41](https://github.com/nightlight-app/nightlight-backend/pull/41) in [nightlight-app/nightlight-backend](https://github.com/nightlight-app/nightlight-backend)
+1. 🔒 Closed issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+2. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+3. ❗ Opened issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+4. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+5. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
