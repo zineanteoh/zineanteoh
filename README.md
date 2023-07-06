@@ -29,10 +29,10 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-2. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-3. ❗ Opened issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-4. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
+1. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+2. 🔒 Closed issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+3. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+4. ❗ Opened issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
 5. 🗣 Commented on [#39891](https://github.com/ant-design/ant-design/issues/39891) in [ant-design/ant-design](https://github.com/ant-design/ant-design)
 <!--END_SECTION:activity-->
 
