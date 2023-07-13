@@ -29,10 +29,10 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/mrmckeb/typescript-plugin-css-modules/issues/152) in [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
-2. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+1. 🗣 Commented on [#152](https://github.com/mrmckeb/typescript-plugin-css-modules/issues/152#issuecomment-1627715445) in [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
+2. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864#issuecomment-1624143890) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
 3. 🔒 Closed issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-4. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+4. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864#issuecomment-1623992549) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
 5. ❗ Opened issue [#864](https://github.com/typegoose/typegoose/issues/864) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
 <!--END_SECTION:activity-->
 
