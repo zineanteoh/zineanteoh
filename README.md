@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/VandyHacks/vh10-promo-site/pull/2) in [VandyHacks/vh10-promo-site](https://github.com/VandyHacks/vh10-promo-site)
-2. 💪 Opened PR [#361](https://github.com/VandyHacks/witness/pull/361) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 🎉 Merged PR [#359](https://github.com/VandyHacks/witness/pull/359) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 💪 Opened PR [#359](https://github.com/VandyHacks/witness/pull/359) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🗣 Commented on [#152](https://github.com/mrmckeb/typescript-plugin-css-modules/issues/152#issuecomment-1627715445) in [mrmckeb/typescript-plugin-css-modules](https://github.com/mrmckeb/typescript-plugin-css-modules)
+1. 🗣 Commented on [#360](https://github.com/VandyHacks/witness/pull/360#issuecomment-1716665884) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. 💪 Opened PR [#2](https://github.com/VandyHacks/vh10-promo-site/pull/2) in [VandyHacks/vh10-promo-site](https://github.com/VandyHacks/vh10-promo-site)
+3. 💪 Opened PR [#361](https://github.com/VandyHacks/witness/pull/361) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🎉 Merged PR [#359](https://github.com/VandyHacks/witness/pull/359) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 💪 Opened PR [#359](https://github.com/VandyHacks/witness/pull/359) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
