@@ -12,7 +12,7 @@ Let's connect!
   <h3>About Me</h3>
   🏫 cs + maths '25 @ vanderbilt university <br>
   🌊 2x dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
-  📚 engineering manager @ <a href="https://github.com/changeplusplusvandy">ChangePlusPlus<a> <br>
+  📚 ex-engineering manager (team bookem) @ <a href="https://github.com/changeplusplusvandy">ChangePlusPlus<a> <br>
   🐿 pulling weekend all nighters @ <a href="https://github.com/squ1rrel-ctf">squ1rrel-ctf</a> <br>
   
   <h3>Random</h3>
