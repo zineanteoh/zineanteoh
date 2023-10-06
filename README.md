@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#371](https://github.com/VandyHacks/witness/pull/371) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-2. 💪 Opened PR [#370](https://github.com/VandyHacks/witness/pull/370) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 🎉 Merged PR [#369](https://github.com/VandyHacks/witness/pull/369) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🗣 Commented on [#362](https://github.com/VandyHacks/witness/pull/362#issuecomment-1745878906) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#3](https://github.com/jacoblurie29/VH-Bookstore/pull/3) in [jacoblurie29/VH-Bookstore](https://github.com/jacoblurie29/VH-Bookstore)
+1. 🗣 Commented on [#370](https://github.com/VandyHacks/witness/pull/370#issuecomment-1751304965) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. 💪 Opened PR [#371](https://github.com/VandyHacks/witness/pull/371) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+3. 💪 Opened PR [#370](https://github.com/VandyHacks/witness/pull/370) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🎉 Merged PR [#369](https://github.com/VandyHacks/witness/pull/369) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🗣 Commented on [#362](https://github.com/VandyHacks/witness/pull/362#issuecomment-1745878906) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
