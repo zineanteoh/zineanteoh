@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864#issuecomment-1772169611) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
-2. 🎉 Merged PR [#21](https://github.com/VandyHacks/vh10-promo-site/pull/21) in [VandyHacks/vh10-promo-site](https://github.com/VandyHacks/vh10-promo-site)
-3. 🗣 Commented on [#397](https://github.com/VandyHacks/witness/pull/397#issuecomment-1765700209) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🎉 Merged PR [#409](https://github.com/VandyHacks/witness/pull/409) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🗣 Commented on [#397](https://github.com/VandyHacks/witness/pull/397#issuecomment-1763841480) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🎉 Merged PR [#397](https://github.com/VandyHacks/witness/pull/397) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+2. 🗣 Commented on [#864](https://github.com/typegoose/typegoose/issues/864#issuecomment-1772169611) in [typegoose/typegoose](https://github.com/typegoose/typegoose)
+3. 🎉 Merged PR [#21](https://github.com/VandyHacks/vh10-promo-site/pull/21) in [VandyHacks/vh10-promo-site](https://github.com/VandyHacks/vh10-promo-site)
+4. 🗣 Commented on [#397](https://github.com/VandyHacks/witness/pull/397#issuecomment-1765700209) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🎉 Merged PR [#409](https://github.com/VandyHacks/witness/pull/409) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
