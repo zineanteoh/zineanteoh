@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#423](https://github.com/VandyHacks/witness/pull/423) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-2. 🗣 Commented on [#424](https://github.com/VandyHacks/witness/pull/424#issuecomment-1783175794) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-3. 🔒 Closed issue [#425](https://github.com/VandyHacks/witness/issues/425) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🔒 Closed issue [#427](https://github.com/VandyHacks/witness/issues/427) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🔒 Closed issue [#430](https://github.com/VandyHacks/witness/issues/430) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. 🎉 Merged PR [#27](https://github.com/VandyHacks/vh10-promo-site/pull/27) in [VandyHacks/vh10-promo-site](https://github.com/VandyHacks/vh10-promo-site)
+2. 🎉 Merged PR [#423](https://github.com/VandyHacks/witness/pull/423) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+3. 🗣 Commented on [#424](https://github.com/VandyHacks/witness/pull/424#issuecomment-1783175794) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+4. 🔒 Closed issue [#425](https://github.com/VandyHacks/witness/issues/425) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🔒 Closed issue [#427](https://github.com/VandyHacks/witness/issues/427) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
