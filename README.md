@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/10) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
-2. 🎉 Merged PR [#63](https://github.com/ChangePlusPlusVandy/bookem-user/pull/63) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-3. 🗣 Commented on [#439](https://github.com/VandyHacks/witness/issues/439#issuecomment-1783904559) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-4. 🎉 Merged PR [#438](https://github.com/VandyHacks/witness/pull/438) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
-5. 🎉 Merged PR [#424](https://github.com/VandyHacks/witness/pull/424) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+1. ❌ Closed PR [#50](https://github.com/ChangePlusPlusVandy/bookem-user/pull/50) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+2. 🎉 Merged PR [#10](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/10) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
+3. 🎉 Merged PR [#63](https://github.com/ChangePlusPlusVandy/bookem-user/pull/63) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+4. 🗣 Commented on [#439](https://github.com/VandyHacks/witness/issues/439#issuecomment-1783904559) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
+5. 🎉 Merged PR [#438](https://github.com/VandyHacks/witness/pull/438) in [VandyHacks/witness](https://github.com/VandyHacks/witness)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
