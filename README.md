@@ -29,11 +29,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/supabase/auth-ui/issues/99#issuecomment-1869626882) in [supabase/auth-ui](https://github.com/supabase/auth-ui)
-2. 🗣 Commented on [#1319](https://github.com/supabase/cli/issues/1319#issuecomment-1869458331) in [supabase/cli](https://github.com/supabase/cli)
-3. ❌ Closed PR [#50](https://github.com/ChangePlusPlusVandy/bookem-user/pull/50) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
-4. 🎉 Merged PR [#10](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/10) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
-5. 🎉 Merged PR [#63](https://github.com/ChangePlusPlusVandy/bookem-user/pull/63) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+1. 🗣 Commented on [#12](https://github.com/pulkitgangwar/next.js-snippets/issues/12#issuecomment-1870166982) in [pulkitgangwar/next.js-snippets](https://github.com/pulkitgangwar/next.js-snippets)
+2. 🗣 Commented on [#99](https://github.com/supabase/auth-ui/issues/99#issuecomment-1869626882) in [supabase/auth-ui](https://github.com/supabase/auth-ui)
+3. 🗣 Commented on [#1319](https://github.com/supabase/cli/issues/1319#issuecomment-1869458331) in [supabase/cli](https://github.com/supabase/cli)
+4. ❌ Closed PR [#50](https://github.com/ChangePlusPlusVandy/bookem-user/pull/50) in [ChangePlusPlusVandy/bookem-user](https://github.com/ChangePlusPlusVandy/bookem-user)
+5. 🎉 Merged PR [#10](https://github.com/ChangePlusPlusVandy/bookem-shared/pull/10) in [ChangePlusPlusVandy/bookem-shared](https://github.com/ChangePlusPlusVandy/bookem-shared)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
