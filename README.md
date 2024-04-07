@@ -10,6 +10,7 @@ Let's connect!
   <p>
     
   <h3>About Me</h3>
+  👨‍💻 founding swe @ <a href="https://www.ycombinator.com/companies/flint-2">FlintK12</a> (YC S23) (jan 2024 - present) <br>
   🏫 cs + maths '25 @ vanderbilt university <br>
   🌊 2x dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
   📚 ex-engineering manager (team bookem) @ <a href="https://github.com/changeplusplusvandy">ChangePlusPlus<a> <br>
