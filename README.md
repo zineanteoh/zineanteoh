@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/rvkulikov/pg-deps-management/issues/17#issuecomment-2041546604) in [rvkulikov/pg-deps-management](https://github.com/rvkulikov/pg-deps-management)
-2. 🗣 Commented on [#1486](https://github.com/dompdf/dompdf/issues/1486#issuecomment-1980280825) in [dompdf/dompdf](https://github.com/dompdf/dompdf)
-3. 🗣 Commented on [#220](https://github.com/vercel/ai-chatbot/issues/220#issuecomment-1975102124) in [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
-4. 🗣 Commented on [#92](https://github.com/djrobstep/migra/issues/92#issuecomment-1968993222) in [djrobstep/migra](https://github.com/djrobstep/migra)
-5. 🗣 Commented on [#99](https://github.com/supabase/auth-ui/issues/99#issuecomment-1869626882) in [supabase/auth-ui](https://github.com/supabase/auth-ui)
+1. ❗ Opened issue [#1](https://github.com/ethanratnofsky/Feel-HN/issues/1) in [ethanratnofsky/Feel-HN](https://github.com/ethanratnofsky/Feel-HN)
+2. 🗣 Commented on [#17](https://github.com/rvkulikov/pg-deps-management/issues/17#issuecomment-2041546604) in [rvkulikov/pg-deps-management](https://github.com/rvkulikov/pg-deps-management)
+3. 🗣 Commented on [#1486](https://github.com/dompdf/dompdf/issues/1486#issuecomment-1980280825) in [dompdf/dompdf](https://github.com/dompdf/dompdf)
+4. 🗣 Commented on [#220](https://github.com/vercel/ai-chatbot/issues/220#issuecomment-1975102124) in [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot)
+5. 🗣 Commented on [#92](https://github.com/djrobstep/migra/issues/92#issuecomment-1968993222) in [djrobstep/migra](https://github.com/djrobstep/migra)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
