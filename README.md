@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2033](https://github.com/supabase/cli/issues/2033#issuecomment-2078841196) in [supabase/cli](https://github.com/supabase/cli)
-2. 🗣 Commented on [#2033](https://github.com/supabase/cli/issues/2033#issuecomment-2078695588) in [supabase/cli](https://github.com/supabase/cli)
-3. ❗ Opened issue [#1](https://github.com/ethanratnofsky/Feel-HN/issues/1) in [ethanratnofsky/Feel-HN](https://github.com/ethanratnofsky/Feel-HN)
-4. 🗣 Commented on [#17](https://github.com/rvkulikov/pg-deps-management/issues/17#issuecomment-2041546604) in [rvkulikov/pg-deps-management](https://github.com/rvkulikov/pg-deps-management)
-5. 🗣 Commented on [#1486](https://github.com/dompdf/dompdf/issues/1486#issuecomment-1980280825) in [dompdf/dompdf](https://github.com/dompdf/dompdf)
+1. 🗣 Commented on [#1623](https://github.com/vercel/ai/issues/1623#issuecomment-2130230777) in [vercel/ai](https://github.com/vercel/ai)
+2. 🗣 Commented on [#2033](https://github.com/supabase/cli/issues/2033#issuecomment-2078841196) in [supabase/cli](https://github.com/supabase/cli)
+3. 🗣 Commented on [#2033](https://github.com/supabase/cli/issues/2033#issuecomment-2078695588) in [supabase/cli](https://github.com/supabase/cli)
+4. ❗ Opened issue [#1](https://github.com/ethanratnofsky/Feel-HN/issues/1) in [ethanratnofsky/Feel-HN](https://github.com/ethanratnofsky/Feel-HN)
+5. 🗣 Commented on [#17](https://github.com/rvkulikov/pg-deps-management/issues/17#issuecomment-2041546604) in [rvkulikov/pg-deps-management](https://github.com/rvkulikov/pg-deps-management)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
