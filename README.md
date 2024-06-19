@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#474](https://github.com/supabase/postgrest-js/issues/474#issuecomment-2146172372) in [supabase/postgrest-js](https://github.com/supabase/postgrest-js)
-2. 💪 Opened PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
-3. 🗣 Commented on [#1512](https://github.com/vercel/ai/issues/1512#issuecomment-2136281586) in [vercel/ai](https://github.com/vercel/ai)
-4. 🗣 Commented on [#536](https://github.com/supabase/postgrest-js/issues/536#issuecomment-2133938195) in [supabase/postgrest-js](https://github.com/supabase/postgrest-js)
-5. 🗣 Commented on [#1623](https://github.com/vercel/ai/issues/1623#issuecomment-2130230777) in [vercel/ai](https://github.com/vercel/ai)
+1. 🗣 Commented on [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4#issuecomment-2177617986) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
+2. ❌ Closed PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
+3. 🗣 Commented on [#474](https://github.com/supabase/postgrest-js/issues/474#issuecomment-2146172372) in [supabase/postgrest-js](https://github.com/supabase/postgrest-js)
+4. 💪 Opened PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
+5. 🗣 Commented on [#1512](https://github.com/vercel/ai/issues/1512#issuecomment-2136281586) in [vercel/ai](https://github.com/vercel/ai)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
