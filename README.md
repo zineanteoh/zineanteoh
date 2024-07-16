@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#31](https://github.com/alanagoyal/alanagoyal/issues/31) in [alanagoyal/alanagoyal](https://github.com/alanagoyal/alanagoyal)
-2. 💪 Opened PR [#320](https://github.com/microsoft/graphrag/pull/320) in [microsoft/graphrag](https://github.com/microsoft/graphrag)
-3. 🗣 Commented on [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4#issuecomment-2177617986) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
-4. ❌ Closed PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
-5. 🗣 Commented on [#474](https://github.com/supabase/postgrest-js/issues/474#issuecomment-2146172372) in [supabase/postgrest-js](https://github.com/supabase/postgrest-js)
+1. 🗣 Commented on [#42](https://github.com/jujumilk3/leaked-system-prompts/issues/42#issuecomment-2229917647) in [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+2. ❗ Opened issue [#31](https://github.com/alanagoyal/alanagoyal/issues/31) in [alanagoyal/alanagoyal](https://github.com/alanagoyal/alanagoyal)
+3. 💪 Opened PR [#320](https://github.com/microsoft/graphrag/pull/320) in [microsoft/graphrag](https://github.com/microsoft/graphrag)
+4. 🗣 Commented on [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4#issuecomment-2177617986) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
+5. ❌ Closed PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
