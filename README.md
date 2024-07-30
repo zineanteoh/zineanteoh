@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/jujumilk3/leaked-system-prompts/issues/42#issuecomment-2229917647) in [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
-2. ❗ Opened issue [#31](https://github.com/alanagoyal/alanagoyal/issues/31) in [alanagoyal/alanagoyal](https://github.com/alanagoyal/alanagoyal)
-3. 💪 Opened PR [#320](https://github.com/microsoft/graphrag/pull/320) in [microsoft/graphrag](https://github.com/microsoft/graphrag)
-4. 🗣 Commented on [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4#issuecomment-2177617986) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
-5. ❌ Closed PR [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
+1. 🗣 Commented on [#66957](https://github.com/vercel/next.js/issues/66957#issuecomment-2257396049) in [vercel/next.js](https://github.com/vercel/next.js)
+2. 🗣 Commented on [#42](https://github.com/jujumilk3/leaked-system-prompts/issues/42#issuecomment-2229917647) in [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
+3. ❗ Opened issue [#31](https://github.com/alanagoyal/alanagoyal/issues/31) in [alanagoyal/alanagoyal](https://github.com/alanagoyal/alanagoyal)
+4. 💪 Opened PR [#320](https://github.com/microsoft/graphrag/pull/320) in [microsoft/graphrag](https://github.com/microsoft/graphrag)
+5. 🗣 Commented on [#4](https://github.com/mahiro0615/mahiro.life.2.0/pull/4#issuecomment-2177617986) in [mahiro0615/mahiro.life.2.0](https://github.com/mahiro0615/mahiro.life.2.0)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
