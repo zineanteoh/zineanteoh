@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5932](https://github.com/sqlfluff/sqlfluff/issues/5932#issuecomment-2272658321) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
-2. 🗣 Commented on [#6029](https://github.com/sqlfluff/sqlfluff/issues/6029#issuecomment-2272094070) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
-3. 🗣 Commented on [#66957](https://github.com/vercel/next.js/issues/66957#issuecomment-2257396049) in [vercel/next.js](https://github.com/vercel/next.js)
-4. 🗣 Commented on [#42](https://github.com/jujumilk3/leaked-system-prompts/issues/42#issuecomment-2229917647) in [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
-5. ❗ Opened issue [#31](https://github.com/alanagoyal/alanagoyal/issues/31) in [alanagoyal/alanagoyal](https://github.com/alanagoyal/alanagoyal)
+1. 🗣 Commented on [#326](https://github.com/darold/pgFormatter/issues/326#issuecomment-2272769689) in [darold/pgFormatter](https://github.com/darold/pgFormatter)
+2. 🗣 Commented on [#5932](https://github.com/sqlfluff/sqlfluff/issues/5932#issuecomment-2272658321) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+3. 🗣 Commented on [#6029](https://github.com/sqlfluff/sqlfluff/issues/6029#issuecomment-2272094070) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+4. 🗣 Commented on [#66957](https://github.com/vercel/next.js/issues/66957#issuecomment-2257396049) in [vercel/next.js](https://github.com/vercel/next.js)
+5. 🗣 Commented on [#42](https://github.com/jujumilk3/leaked-system-prompts/issues/42#issuecomment-2229917647) in [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
