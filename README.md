@@ -38,3 +38,5 @@ Let's connect!
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+![](https://hit.yhype.me/github/profile?user_id=58854510)
