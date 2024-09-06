@@ -30,11 +30,11 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/xiaoiver/infinite-canvas-tutorial/pull/8) in [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial)
-2. 🗣 Commented on [#28868](https://github.com/supabase/supabase/issues/28868#issuecomment-2314111843) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 🗣 Commented on [#326](https://github.com/darold/pgFormatter/issues/326#issuecomment-2272769689) in [darold/pgFormatter](https://github.com/darold/pgFormatter)
-4. 🗣 Commented on [#5932](https://github.com/sqlfluff/sqlfluff/issues/5932#issuecomment-2272658321) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
-5. 🗣 Commented on [#6029](https://github.com/sqlfluff/sqlfluff/issues/6029#issuecomment-2272094070) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+1. 💪 Opened PR [#1](https://github.com/nkalupahana/ant-venmo/pull/1) in [nkalupahana/ant-venmo](https://github.com/nkalupahana/ant-venmo)
+2. 💪 Opened PR [#8](https://github.com/xiaoiver/infinite-canvas-tutorial/pull/8) in [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial)
+3. 🗣 Commented on [#28868](https://github.com/supabase/supabase/issues/28868#issuecomment-2314111843) in [supabase/supabase](https://github.com/supabase/supabase)
+4. 🗣 Commented on [#326](https://github.com/darold/pgFormatter/issues/326#issuecomment-2272769689) in [darold/pgFormatter](https://github.com/darold/pgFormatter)
+5. 🗣 Commented on [#5932](https://github.com/sqlfluff/sqlfluff/issues/5932#issuecomment-2272658321) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
 <!--END_SECTION:activity-->
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
