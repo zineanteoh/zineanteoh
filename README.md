@@ -30,8 +30,8 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/lharries/whatsapp-mcp/issues/3#issuecomment-2764254623) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
-2. 💪 Opened PR [#8](https://github.com/xiaoiver/infinite-canvas-tutorial/pull/8) in [xiaoiver/infinite-canvas-tutorial](https://github.com/xiaoiver/infinite-canvas-tutorial)
+1. 💪 Opened PR [#740](https://github.com/xyflow/web/pull/740) in [xyflow/web](https://github.com/xyflow/web)
+2. 🗣 Commented on [#3](https://github.com/lharries/whatsapp-mcp/issues/3#issuecomment-2764254623) in [lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp)
 3. 🗣 Commented on [#28868](https://github.com/supabase/supabase/issues/28868#issuecomment-2314111843) in [supabase/supabase](https://github.com/supabase/supabase)
 4. 🗣 Commented on [#326](https://github.com/darold/pgFormatter/issues/326#issuecomment-2272769689) in [darold/pgFormatter](https://github.com/darold/pgFormatter)
 5. 🗣 Commented on [#5932](https://github.com/sqlfluff/sqlfluff/issues/5932#issuecomment-2272658321) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
