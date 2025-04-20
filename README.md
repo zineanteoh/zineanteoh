@@ -17,8 +17,9 @@ Let's connect!
   🐿 pulling weekend all nighters @ <a href="https://github.com/squ1rrel-ctf">squ1rrel-ctf</a> <br>
   
   <h3>Random</h3>
+  📝 check out my <a href="https://zineanteoh.com">personal blog</a> <br>
+  📱 i am learning how to do <a href="https://github.com/zineanteoh/vibe-coding">vibe-coding</a>!<br>
   ✍️ i occasionally do some ctf <a href="https://squ1rrel.dev/author/zineanteoh">writeups</a> <br>
-  📱 one of my <a href="https://github.com/zineanteoh/vinkybox-app">favorite</a> personal project<br>
   📖 i dont remember all the books i read so i keep them at a <a href="https://www.goodreads.com/user/show/80901669-zi">safe place</a>
   </p>
   
