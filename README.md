@@ -8,8 +8,12 @@ Let's connect!
 <p float="left">
   <img src='https://imgur.com/nGM66Ev.png' width='300' align="left">
   <p>
-    
+
   <h3>About Me</h3>
+  <div>
+    <img src="https://ramp.com/favicon.ico" width="15px" height="15px" />
+    engineering @ <a href="https://www.ramp.com">Ramp</a> (june 2025 - present)
+  </div>
   👨‍💻 founding swe @ <a href="https://www.flintk12.com">FlintK12</a> (YC S23) (jan 2024 - jan 2025) <br>
   🏫 cs + maths '25 @ vanderbilt university <br>
   🌊 2x dev director @ <a href="https://github.com/vandyhacks">VandyHacks</a> <br>
