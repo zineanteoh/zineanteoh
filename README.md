@@ -35,7 +35,7 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/kohrachel/kohrachel.com/issues/20#issuecomment-3185105577) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
+1. 🗣 Commented on [#48](https://github.com/kohrachel/weshare/pull/48#issuecomment-3518960837) in [kohrachel/weshare](https://github.com/kohrachel/weshare)
 2. 🗣 Commented on [#1](https://github.com/kohrachel/project-wordle/pull/1#issuecomment-3134477647) in [kohrachel/project-wordle](https://github.com/kohrachel/project-wordle)
 3. ❗ Opened issue [#6](https://github.com/kohrachel/kohrachel.com/issues/6) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 4. ❗ Opened issue [#5](https://github.com/kohrachel/kohrachel.com/issues/5) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
