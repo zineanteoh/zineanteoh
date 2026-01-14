@@ -35,8 +35,8 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nkalupahana/vscode-proximity-chat/pull/1) in [nkalupahana/vscode-proximity-chat](https://github.com/nkalupahana/vscode-proximity-chat)
-2. 🗣 Commented on [#1](https://github.com/kohrachel/project-wordle/pull/1#issuecomment-3134477647) in [kohrachel/project-wordle](https://github.com/kohrachel/project-wordle)
+1. 🎉 Merged PR [#1](https://github.com/nkalupahana/vscode-proximity-chat/pull/1) in [nkalupahana/vscode-proximity-chat](https://github.com/nkalupahana/vscode-proximity-chat)
+2. 💪 Opened PR [#1](https://github.com/nkalupahana/vscode-proximity-chat/pull/1) in [nkalupahana/vscode-proximity-chat](https://github.com/nkalupahana/vscode-proximity-chat)
 3. ❗ Opened issue [#6](https://github.com/kohrachel/kohrachel.com/issues/6) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 4. ❗ Opened issue [#5](https://github.com/kohrachel/kohrachel.com/issues/5) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 5. ❗ Opened issue [#4](https://github.com/kohrachel/kohrachel.com/issues/4) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
