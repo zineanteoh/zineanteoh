@@ -35,9 +35,9 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/KozyStudio/kozy-days/pull/2) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
-2. 💪 Opened PR [#1](https://github.com/KozyStudio/kozy-days/pull/1) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
-3. ❗ Opened issue [#6](https://github.com/kohrachel/kohrachel.com/issues/6) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
+1. 💪 Opened PR [#3](https://github.com/KozyStudio/kozy-days/pull/3) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
+2. 💪 Opened PR [#2](https://github.com/KozyStudio/kozy-days/pull/2) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
+3. 💪 Opened PR [#1](https://github.com/KozyStudio/kozy-days/pull/1) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
 4. ❗ Opened issue [#5](https://github.com/kohrachel/kohrachel.com/issues/5) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 5. ❗ Opened issue [#4](https://github.com/kohrachel/kohrachel.com/issues/4) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 <!--END_SECTION:activity-->
