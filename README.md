@@ -35,7 +35,7 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/KozyStudio/kozy-days/pull/2) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
+1. 💪 Opened PR [#3](https://github.com/kohrachel/kohrachel.com/pull/3) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 2. ❌ Closed PR [#1](https://github.com/KozyStudio/kozy-days/pull/1) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
 3. 🎉 Merged PR [#3](https://github.com/KozyStudio/kozy-days/pull/3) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
 4. 💪 Opened PR [#1](https://github.com/KozyStudio/kozy-days/pull/1) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
