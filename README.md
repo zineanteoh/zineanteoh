@@ -35,8 +35,8 @@ Let's connect!
 <h3>My recent activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#63](https://github.com/kohrachel/kohrachel.com/pull/63#issuecomment-6817833091) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
-2. 💪 Opened PR [#3](https://github.com/kohrachel/kohrachel.com/pull/3) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
+1. 🗣 Commented on [#123](https://github.com/kohrachel/kohrachel.com/pull/123#issuecomment-6945081408) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
+2. 🗣 Commented on [#63](https://github.com/kohrachel/kohrachel.com/pull/63#issuecomment-6817833091) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
 3. 🎉 Merged PR [#3](https://github.com/KozyStudio/kozy-days/pull/3) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
 4. 💪 Opened PR [#1](https://github.com/KozyStudio/kozy-days/pull/1) in [KozyStudio/kozy-days](https://github.com/KozyStudio/kozy-days)
 5. ❗ Opened issue [#4](https://github.com/kohrachel/kohrachel.com/issues/4) in [kohrachel/kohrachel.com](https://github.com/kohrachel/kohrachel.com)
